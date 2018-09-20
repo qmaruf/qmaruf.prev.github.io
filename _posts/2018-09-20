@@ -1,0 +1,4 @@
+### Run Jupyter Notebook Without Opening the Browser ###
+```
+jupyter notebook --no-browser
+```
