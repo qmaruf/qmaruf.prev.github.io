@@ -28,3 +28,8 @@ Detach from a session
 ctrl+b
 d
 ```
+
+Invoke tmux with bash
+```
+tmux new-session bash
+```
