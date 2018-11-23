@@ -10,4 +10,5 @@ for i in range(100):
     axs[i].imshow(img)
     axs[i].set_title(i)
 
+plt.show()
 ```
