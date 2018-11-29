@@ -9,7 +9,7 @@ train_loader = torch.utils.data.DataLoader(
         transform=transforms.ToTensor())
                      
 for batch_idx, (data, _) in enumerate(train_loader):        
-    img = to_pil(data[0].data)
+    img = to_pil(data[0].data.cpu())
     plt.imshow(img)
     plt.show()
 ```
