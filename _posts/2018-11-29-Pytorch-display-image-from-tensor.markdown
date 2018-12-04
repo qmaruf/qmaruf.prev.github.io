@@ -8,7 +8,6 @@ def show_img_from_batch(batch):
     img = to_pil(batch[0].data.cpu())
     plt.imshow(img)
     
-
 train_loader = torch.utils.data.DataLoader(
         datasets.CIFAR10(
             '/media/quazi/DATADRIVE1/data/cifar/', 
