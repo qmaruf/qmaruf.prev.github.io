@@ -74,3 +74,6 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 future: true
+
+# Google Analytics
+google_analytics: UA-20160176-2
