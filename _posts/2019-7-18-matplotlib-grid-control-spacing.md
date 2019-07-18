@@ -5,12 +5,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 %matplotlib inline
 ```
-
-
 ```python
 fig, axs = plt.subplots(nrows=1, ncols=2, figsize=(5, 2))
 axs = axs.reshape(1,2)
-
 
 for ax in fig.axes:
     ax.set_xticklabels([])
@@ -26,10 +23,7 @@ fig.subplots_adjust(wspace=0.01, hspace=0.01)
 plt.savefig('tmp.svg', format='svg', bbox_inches = 'tight', pad_inches = 0)
 ```
 
-
-![png](control_spacing.png)
-
-
+![png](./control_spacing.png)
 
 ```python
 
