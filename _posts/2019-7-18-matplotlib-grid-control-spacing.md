@@ -24,7 +24,3 @@ plt.savefig('tmp.svg', format='svg', bbox_inches = 'tight', pad_inches = 0)
 ```
 
 ![png](./control_spacing.png)
-
-```python
-
-```
