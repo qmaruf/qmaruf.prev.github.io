@@ -1,5 +1,6 @@
 ---
-published: true
+title: Advanced Regression For House Price Prediction
+date: 2020-05-22 00:00:00 Z
 ---
 
 <figure>

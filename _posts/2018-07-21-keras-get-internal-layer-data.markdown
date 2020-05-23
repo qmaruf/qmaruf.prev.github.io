@@ -1,3 +1,8 @@
+---
+title: Keras Get Internal Layer Data
+date: 2018-07-21 00:00:00 Z
+---
+
 
 ```python
 from keras.applications.vgg16 import VGG16

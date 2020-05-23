@@ -1,3 +1,8 @@
+---
+title: Scatter Plot With Legend
+date: 2018-11-27 00:00:00 Z
+---
+
 This code will create random features and their 2D embedding to plot using a matplotlib scatter plot. Just keeping it here for future reference. `colorbar` is used as legend.
 
 ```python

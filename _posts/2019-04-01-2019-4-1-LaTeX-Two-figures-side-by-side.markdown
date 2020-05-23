@@ -1,3 +1,8 @@
+---
+title: Latex Two Figures Side By Side
+date: 2019-04-01 00:00:00 Z
+---
+
 ```
 \begin{figure}
     \centering

@@ -1,3 +1,8 @@
+---
+title: Simple Argument Parser Example
+date: 2019-07-31 00:00:00 Z
+---
+
 ```python
 import argparse
 

@@ -1,3 +1,8 @@
+---
+title: Important Words
+date: 2019-03-14 00:00:00 Z
+---
+
 | Describing similarities |                 Showing cause and effect                | Comparing and contrasting | Limitation and contradiction |                Emphasis, addition or example                |        Concluding        |
 |:-----------------------:|:-------------------------------------------------------:|:-------------------------:|:----------------------------:|:-----------------------------------------------------------:|:------------------------:|
 |         Likewise        |                       Consequently                      |       Alternatively       |      Despite/in spite of     |                        To illustrate                        |       To summarise       |

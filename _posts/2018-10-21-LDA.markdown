@@ -1,1 +1,6 @@
+---
+title: Lda
+date: 2018-10-21 00:00:00 Z
+---
+
 * https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d

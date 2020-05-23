@@ -1,3 +1,8 @@
+---
+title: Matplotlib Grid Control Spacing
+date: 2019-07-18 00:00:00 Z
+---
+
 
 
 ```python

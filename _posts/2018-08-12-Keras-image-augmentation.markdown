@@ -1,3 +1,8 @@
+---
+title: Keras Image Augmentation
+date: 2018-08-12 00:00:00 Z
+---
+
 ```
 from keras.preprocessing.image import ImageDataGenerator,img_to_array, load_img
 from glob import glob

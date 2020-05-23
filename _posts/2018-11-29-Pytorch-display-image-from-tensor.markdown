@@ -1,3 +1,8 @@
+---
+title: Pytorch Display Image From Tensor
+date: 2018-11-29 00:00:00 Z
+---
+
 ```python
 import torch
 from torchvision import datasets, transforms

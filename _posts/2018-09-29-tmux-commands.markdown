@@ -1,3 +1,8 @@
+---
+title: Tmux Commands
+date: 2018-09-29 00:00:00 Z
+---
+
 Get list of all sessions
 ```
 tmux list-sessions

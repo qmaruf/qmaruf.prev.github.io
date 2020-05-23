@@ -1,3 +1,8 @@
+---
+title: How To Use Keras And Vgg For Object Classification
+date: 2018-07-25 00:00:00 Z
+---
+
 In this post, i'll show an example of how to use pretrained vgg network for object classification using keras.
 The first part is to import necessary library.
 

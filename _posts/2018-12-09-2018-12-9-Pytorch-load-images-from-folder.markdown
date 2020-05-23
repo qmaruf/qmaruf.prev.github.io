@@ -1,3 +1,8 @@
+---
+title: Pytorch Load Images From Folder
+date: 2018-12-09 00:00:00 Z
+---
+
 This simple pytorch class will load images from a folder. It'll not assign any label with the images. 
 
 ```python

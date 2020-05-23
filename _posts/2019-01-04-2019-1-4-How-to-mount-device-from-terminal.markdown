@@ -1,3 +1,8 @@
+---
+title: How To Mount Device From Terminal
+date: 2019-01-04 00:00:00 Z
+---
+
 Find device list using `lsblk`
 
 Here is the ouput from my ubuntu 16.04 machine.

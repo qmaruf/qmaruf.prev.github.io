@@ -1,5 +1,6 @@
 ---
+title: Blog Archive
+permalink: "/archives/"
 layout: archive
-title: "Blog Archive"
-permalink: /archives/
 ---
+

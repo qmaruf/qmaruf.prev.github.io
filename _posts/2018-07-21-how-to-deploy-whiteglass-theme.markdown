@@ -1,3 +1,8 @@
+---
+title: How To Deploy Whiteglass Theme
+date: 2018-07-21 00:00:00 Z
+---
+
 I'm keeping a note for myself about how I've create this site. The first step is to create a repository in github using the exact same format given below.
 ```
 your-github-id.github.io

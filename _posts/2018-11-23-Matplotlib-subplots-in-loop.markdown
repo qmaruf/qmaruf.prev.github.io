@@ -1,3 +1,8 @@
+---
+title: Matplotlib Subplots In Loop
+date: 2018-11-23 00:00:00 Z
+---
+
 ```python
 import matplotlib.pyplot as plt
 

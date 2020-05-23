@@ -1,3 +1,8 @@
+---
+title: Rbm
+date: 2018-10-21 00:00:00 Z
+---
+
 * https://stats.stackexchange.com/questions/114385/what-is-the-difference-between-convolutional-neural-networks-restricted-boltzma
 * http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/
 * https://www.reddit.com/r/MachineLearning/comments/20ue0z/what_are_the_practical_difference_between_an_rbm/
