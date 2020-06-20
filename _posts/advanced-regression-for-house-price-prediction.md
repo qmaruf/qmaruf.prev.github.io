@@ -1,6 +1,7 @@
 ---
 title: Advanced Regression For House Price Prediction
 date: 2020-05-22 00:00:00 Z
+publish
 ---
 
 ![Advanced regression techniques](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
