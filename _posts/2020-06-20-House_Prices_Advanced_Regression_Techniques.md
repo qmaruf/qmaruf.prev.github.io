@@ -1,3 +1,8 @@
+---
+title: House_prices_advanced_regression_techniques
+date: 2020-06-20 00:00:00 Z
+---
+
 In this EDA I'll explore a house price dataset. The dataset is collected from a Kaggle playground competition. You can check the dataset from here. https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data. I'll try to analyse some variables and their impact to determine the house price. Besides, I'll try to do some basic data cleaning.
 
 First thing first. Let's import the necessary libraries.
