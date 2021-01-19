@@ -32,7 +32,7 @@ Hmm. Somehow, the `libxerces-c-3.2.so` was previously installed along with `MATL
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/MATLAB/R2019b/bin/glnxa64/
 ```
 
-Well, the problem is solved now. Here is a screen shot of Carla -- up and running.
+Now, the path -- `/usr/local/MATLAB/R2019b/bin/glnxa64/` -- will also be searched for the required library. Well, the problem is solved now. Here is a screen shot of Carla -- up and running.
 ![Screenshot from 2021-01-19 17-22-50](https://user-images.githubusercontent.com/530250/105001296-46c93200-5a7b-11eb-8144-3b46ac1d2106.png)
 
 
